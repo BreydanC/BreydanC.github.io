@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> Halloween </title>
+<style>
+h1 {color: #e68a00; font-size: 50}
+table, th, td {border: 5px orange; border-radius: 20px}
+td:hover {background-color: orange}
+img {border: 5px solid orange; border-radius: 35px}
+</style>
+<body bgcolor=black text=#995c00 link=#995c00 vlink=#b35900>
+<center>
+<h1><img src=Hbanner.png> </h1>
+<body>
+<table border=2 width=40% cellpadding=20 cellspacing=20 align=center>
+<body align=center>
+<tr>
+</tr>
+<td align=center><img src=jason.jpg></td>
+<td align=center><img src=pinhead.jpg><p></td>
+<td align=center><img src=freddy_krueger.jpg><p></td>
+</tr>
+<td align=center><img src=pumpkin_man.png></td>
+<td align=center><img src=mike_myers.jpg></td>
+<td align=center><img src=jack_skellington.jpg></td>
+</tr>
+<td align=center> <a href=https://www.mccormick.com/recipes/halloween?utm_source=google&utm_medium=cpc&utm_term=halloween%20recipes&utm_content=mccormick|reserve&utm_campaign=mccormick|fy17|ggl|nb|halloween|r|recipes|exact&gclid=EAIaIQobChMIto6DsY6b1wIVDH9-Ch0jrA5IEAAYASAAEgKkIfD_BwE style="cursor:pointer" target="_blank">Halloween Recipes</td>
+<td align=center> <a href=http://www.history.com/topics/halloween/history-of-halloween style="cursor:pointer" target="_blank">History Of Halloween</td>
+<td align=center> <a href=https://www.today.com/style/61-awesome-halloween-costume-ideas-its-not-too-late-steal-t2741 style="cursor:pointer" target="_blank"> Costume Ideas</td>
+</tr>
+</table>
+</body>
+</html>

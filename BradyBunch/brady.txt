@@ -1,0 +1,36 @@
+<html>
+<head>
+<title> The Brady Bunch In A Table </title>
+<style>
+h1 {color: red; font-size: 50}
+table, th, td {border: 5px dashed blue; border-radius: 20px}
+td:hover {background-color: maroon}
+img {border: 5px solid red; border-radius: 35px}
+</style>
+<body bgcolor=black text=red>
+<center>
+<h1> The Brady Bunch </h1>
+<body>
+<table border=2 width=40% cellpadding=20 cellspacing=20>
+<body align=center>
+<tr>
+</tr>
+<td><img src=mike.jpg><p>Mike</td>
+<td><img src=carol.jpg><p>Carol</td>
+<td><img src=alice.jpg><p>Alice</td>
+</tr>
+<td><img src=greg.jpg><p>Greg</td>
+<td><img src=peter.jpg><p>Peter</td>
+<td><img src=bobby.jpg><p>Bobby</td>
+</tr>
+<td><img src=marcia.jpg><p>Marcia</td>
+<td><img src=jan.jpg><p>Jan</td>
+<td><img src=cindy.jpg><p>Cindy</td>
+</tr>
+</table>
+<p>
+<audio controls>
+<source src="Brady/theme.wav" type="audio/wav">
+</audio>
+</body>
+</html>
